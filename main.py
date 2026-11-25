@@ -1,7 +1,7 @@
 import os
 
 LINE = (
-    "I have been waiting for your approval for six hours. "
+    "I have been waiting for your approval all week. "
     "I have written this report, which is also waiting for your approval."
 )
 
